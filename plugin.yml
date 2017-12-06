@@ -1,0 +1,11 @@
+name: CraftSlayer
+main: eu.amazir.CraftSlayer
+version: 0.0.1
+author: AmaziR
+commands:
+  testt:
+    description: ssdasda
+  drop:
+    description: informations about drop from stone
+  g:
+    description: glowna komenda gildii

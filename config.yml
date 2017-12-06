@@ -1,0 +1,12 @@
+general:
+  tag:
+messages:
+  join-msg:
+  quit-msg:
+drop:
+  enabled:
+  experience:
+  diamond-chance:
+  emerald-chance:
+  gold-chance:
+  iron-chance:
