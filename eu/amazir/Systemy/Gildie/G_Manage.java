@@ -5,5 +5,5 @@ public class G_Manage {
     {}
     public static void InvitePlayer()
     {}
-    
+    // Zmiana
 }
